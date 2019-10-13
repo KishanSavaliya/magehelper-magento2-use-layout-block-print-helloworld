@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MageHelper Print Hello World Simple module with the use of Layout and Block
+ *
+ * @package      MageHelper_UseOfLayoutAndBlock
+ * @author       Kishan Savaliya <kishansavaliyakb@gmail.com>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="magehelper_hello" frontName="magehelper_hello">
+            <module name="MageHelper_UseOfLayoutAndBlock" />
+        </route>
+    </router>
+</config>
