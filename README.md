@@ -1,4 +1,4 @@
-# MageHelper Print Hello World Simple module with the use of Layout and Block with the use of Layout and Block
+# MageHelper Print Hello World Simple module with the use of Layout and Block
 
 We will learn here, how to create new simple "Hello World" module in Magento 2 step by step.
 
