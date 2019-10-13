@@ -304,7 +304,7 @@ Content for this file :
 http://example.com/magehelper_hello/hello/world
 ~~~
 
-![MageHelper Print Hello World Simple module with the use of Layout and Block output]()
+![MageHelper Print Hello World Simple module with the use of Layout and Block output](https://github.com/KishanSavaliya/magehelper-magento2-use-layout-block-print-helloworld/blob/master/MageHelper/Magento2-Use-Of-Layout-and-Block-file-output.png)
 
 
 ## Extra Notes :
